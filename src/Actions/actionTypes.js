@@ -1,0 +1,2 @@
+export const SUMBIT_FORM='SUBMIT_FORM';
+export const DISPLAY_FORM='DISPLAY_FORM';
